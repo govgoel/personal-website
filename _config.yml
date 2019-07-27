@@ -53,11 +53,11 @@ topics:
    
   - name: C Language
     web_url: https://www.geeksforgeeks.org/c-programming-language/
-    image_url:https://www.geeksforgeeks.org/wp-content/uploads/Clanguage-660x220.png
+    image_url: https://www.geeksforgeeks.org/wp-content/uploads/Clanguage-660x220.png
     
   - name: HackerRank
     web_url: https://en.wikipedia.org/wiki/File:HackerRank_logo.png
-    image_url:https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png
 
   - name: Sass
     web_url: https://github.com/topics/sass
